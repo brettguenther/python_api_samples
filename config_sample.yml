@@ -1,7 +1,7 @@
 # gitignore this file!
 #rename config.yml
 
-hosts: 
+hosts:
  'localhost':
     host: 'https://localhost:19999/api/3.0/'
     secret: 'my_secret'
